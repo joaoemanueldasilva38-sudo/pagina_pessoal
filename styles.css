@@ -1,0 +1,14 @@
+img{
+    height: 250px;
+}
+body{
+    background-color: rgba(197, 94, 10, 0.795);
+}
+h1{
+    text-align: center;
+    background-color: darkorange;
+}
+div{
+    background-color: crimson;
+    border-radius: 15px;
+}
