@@ -7,8 +7,10 @@ body{
 h1{
     text-align: center;
     background-color: darkorange;
-}
-div{
-    background-color: crimson;
     border-radius: 15px;
 }
+div{
+    background-color: darkorange;
+    border-radius: 15px;
+}
+    
